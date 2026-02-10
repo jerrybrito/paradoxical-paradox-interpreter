@@ -1,0 +1,2 @@
+# Requires: potential-delay
+# (Not available on PyPI)
